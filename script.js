@@ -66,3 +66,4 @@ copyButton.addEventListener('click', () => {
   document.execCommand('copy');
   alert('Formatted text copied to clipboard!');
 });
+//and is done :-)
